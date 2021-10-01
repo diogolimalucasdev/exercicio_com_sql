@@ -103,6 +103,9 @@ if __name__ == '__main__':
 ````
 
 
+Ainda Falta algumas partes a serem finalizadas
+
+
 
 
 
